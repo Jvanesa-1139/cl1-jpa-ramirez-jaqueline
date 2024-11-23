@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8da3138f-81e0-4c1a-b9ea-b7900af3eded" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pe/edu/i20233291/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/i20233291/crud/JPAFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/i20233291/crud/JPAFind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/HOLA/IdeaProjects/spring-data-jpa-jyd-master",
+    "last_opened_file_path": "C:/Users/HOLA/IdeaProjects/cl1-jpa-gebhardt-sigmund",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -121,7 +116,8 @@
       <option name="presentableId" value="Default" />
       <updated>1732250140680</updated>
       <workItem from="1732250141878" duration="4595000" />
-      <workItem from="1732327467079" duration="10699000" />
+      <workItem from="1732327467079" duration="12486000" />
+      <workItem from="1732341000416" duration="633000" />
     </task>
     <servers />
   </component>
