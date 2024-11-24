@@ -30,8 +30,8 @@ public class JPAPersist {
         country.setCity(Arrays.asList(ciudad1, ciudad2, ciudad3));
 
         // crear los lenguajes
-        CountryLanguage Leng1 = new CountryLanguage("Español", "S", 81.5, country);
-        CountryLanguage Leng2 = new CountryLanguage("Ingles", "N", 25.5, country);
+        CountryLanguage Leng1 = new CountryLanguage("Español", "T", 81.5, country);
+        CountryLanguage Leng2 = new CountryLanguage("Ingles", "F", 25.5, country);
 
         // agregar lenguajes al país
         country.setCountryLanguages(Arrays.asList(Leng1, Leng2));
